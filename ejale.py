@@ -1,1 +1,2 @@
 print("holi")
+a=input()
